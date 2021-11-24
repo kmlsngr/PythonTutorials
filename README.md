@@ -1,0 +1,2 @@
+# PythonTutorials
+Python Kod Alıştırmaları
